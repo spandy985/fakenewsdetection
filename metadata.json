@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TruthScan - AI Fake News Detection",
+  "description": "An advanced AI-powered system that analyzes news headlines and articles to determine their authenticity using the Gemini API and Google Search grounding.",
+  "requestFramePermissions": []
+}
